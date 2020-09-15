@@ -1,0 +1,17 @@
+295 41 周瑀紘 755447
+因為之前有上過傑武老師的python課程，所以想要來上更進階的C語言課程，我希望這堂課
+能讓我在C語言有基本的能力
+我對電機科技方面有興趣，之後想讀跟這方面有關的科系(但我不知道確切有什麼科系)
+
+
+
+#incloude <iostream>
+using namespace std;
+
+int main() {
+    string num;
+    cin >> num;
+    cout << "Hello ， ";
+    cout << num;
+    cout << "!";
+}
