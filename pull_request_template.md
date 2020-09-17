@@ -7,4 +7,7 @@
 
 ---
 
-Repl 連結：
+Repl 連結：https://repl.it/@shit878/KindlyLemonchiffonCareware#main.cpp
+
+1.我想學程式
+2.很多東西.沒想法.不知道為什麼
