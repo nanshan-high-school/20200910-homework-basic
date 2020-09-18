@@ -1,9 +1,9 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 int main() {
     string name;
-    cout << "½Ð¿é¤J§A¦W¦r\n";
+    cout << "è«‹è¼¸å…¥ä½ åå­—\n";
     cin >> name;
     cout << "Hello";
     cout << name; 
