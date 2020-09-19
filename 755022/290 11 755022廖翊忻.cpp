@@ -1,8 +1,8 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 int main() {
    string name;
-   cout<<"¿é¤J§Aªº¦W¦r";
+   cout<<"è¼¸å…¥ä½ çš„åå­—";
    cin>>name;
    cout<<"Hello,"+ name;
 }
