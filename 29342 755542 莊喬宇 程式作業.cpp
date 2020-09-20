@@ -7,5 +7,6 @@ int main() {
   cin >> name;
   cout << "Hello，";
   cout << name;
-  cout << "!\n";
+  cout << "!";
+  cout << "\n";
 }
