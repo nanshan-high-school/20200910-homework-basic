@@ -6,6 +6,6 @@ int main() {
   cout << "請輸入名字:\n";
   cin >> name;
   cout << "Hello，";
-  cout << name ;
+  cout << name;
   cout << "!\n";
 }
