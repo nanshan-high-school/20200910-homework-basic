@@ -4,10 +4,10 @@ using namespace std;
 int main() {
     char name[20];
 
-    cout << "½Ð¿é¤J¦W¦r:\n ";
+    cout << "Please write your name:\n ";
     cin >> name;
 
-    cout << "Hello¡A";
+    cout << "Hello,";
     cout << name;
     cout << "\n";
 }
