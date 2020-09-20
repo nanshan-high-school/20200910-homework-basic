@@ -1,18 +1,12 @@
 #include <iostream>
 using namespace std;
 
-  int main() {
-  int num;
+int main() {
+  string name;
 
-  cout <<"請輸入要檢查的數字：\n";
-  cin >> num;
+  cout <<"請輸入你的名字：\n";
+  cin >> name;
 
-  if (num==0){
-      cout <<num <<"不是3的倍數\n";
-
-  } else if (num % 3 ==0){
-    cout << num <<"為3的倍數\n";
-      
-    } else {
-      cout << num <<"不為3的倍數\n";}
-}
+  cout <<"你好 ";
+  cout << name+"!\n";
+} 
